@@ -4,5 +4,5 @@ A simple compass app built using SwiftUI. It supports both light & dark mode, re
 
 ## Screenshots
 
-![]("assets/light-mode.png")
-![]("assets/dark-mode.png")
+![Screenshot 1](assets/light-mode.png)
+![Screenshot 2](assets/dark-mode.png)
